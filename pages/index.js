@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { useState } from "react";
-import "cebr.xyz/styles/globals.css";
+import "../styles/globals.css";
 
 export default function Home() {
   const [darkMode, setDarkMode] = useState(false);
