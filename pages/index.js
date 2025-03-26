@@ -24,7 +24,7 @@ export default function Home() {
       <main className="p-10 text-center">
         <h2 className="text-4xl font-bold mb-6">Bienvenido a Cebr.xyz</h2>
         <p className="text-lg max-w-2xl mx-auto">
-          Soy un desarrollador independiente creando herramientas útiles, eficientes y modernas.
+          Soy un desarrollador independiente.
         </p>
         <div className="mt-6">
           <Link href="mailto:hola@cebr.xyz" className="text-blue-600 hover:underline">
